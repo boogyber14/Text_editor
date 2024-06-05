@@ -1,0 +1,13 @@
+# Ignore compiled files
+/target/
+
+# Ignore generated documentation
+/doc/
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.rs.bk
+
+# Ignore executables
+*.exe
